@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 21 y.o .NET developer with a love for coffee, programming, and biotechnology.
+I'm a 23 y.o .NET developer with a love for coffee, programming, and biotechnology.
 
 I'm currently studying Computer Engineering at the University of Tehran.
 
