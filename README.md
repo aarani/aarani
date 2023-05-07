@@ -1,11 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm a 23 y.o .NET developer with a love for coffee, programming, and biotechnology.
 
 I'm currently studying Computer Engineering at the University of Tehran.
 
-Some of my recent work:
----
+### Some of my recent work:
 - [NBlockchain\geewallet (Lightning)](https://github.com/nblockchain/geewallet/commits/rc/LN-m13?author=aarani)
 - [NBlockchain\DNL.Kiss](https://github.com/nblockchain/DotNetLightning.Kiss/commits?author=aarani)
 - [NBlockchain\NOnion](https://github.com/nblockchain/NOnion/commits?author=aarani)
