@@ -8,7 +8,3 @@ I'm currently studying Computer Engineering at the University of Tehran.
 - [NBlockchain\NOnion](https://github.com/nblockchain/NOnion/commits?author=aarani)
 - [NBlockchain\geewallet (Lightning)](https://github.com/nblockchain/geewallet/commits/rc/LN-m13?author=aarani)
 - [NBlockchain\DNL.Kiss](https://github.com/nblockchain/DotNetLightning.Kiss/commits?author=aarani)
-
-[![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarani)](https://github.com/aarani)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarani&layout=compact)](https://github.com/aarani)
