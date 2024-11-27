@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a 24 y.o .NET developer with a love for coffee, programming, and biotechnology.
+I'm a .NET developer with a love for coffee, programming, and biotechnology.
 
 ### Some of my work:
 - [NOnion](https://github.com/aarani/NOnion/commits?author=aarani)
