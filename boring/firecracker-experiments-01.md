@@ -68,7 +68,7 @@ I used the quick start guide [here](https://github.com/firecracker-microvm/firec
 ## It works!!! 😍
 ## It doesn't have internet access 😭
 
-Both container images I tried did not have the "ip" command installed, [so I used this small note in the guide to setup the network](https://github.com/firecracker-microvm/firecracker/blob/main/docs/network-setup.md#advanced-guest-network-configuration-using-kernel-command-line).
+Both container images I tried did not have the "ip" command installed, [I used this small note in the guide to setup the network](https://github.com/firecracker-microvm/firecracker/blob/main/docs/network-setup.md#advanced-guest-network-configuration-using-kernel-command-line).
 I also added my 1.1.1.1 as nameserver and... 
 ## YAAAY! It really works this time.
 
