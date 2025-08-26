@@ -39,6 +39,8 @@ Essentially we can save disk space by sharing the same read-only rootfs between 
 
 **That's the beauty of OverlayFS**, you can easily overlay a separate read-write disk on top of your read-only disk where VMs can read/write from/to.
 
+<img width="784" height="344" alt="image" src="https://github.com/user-attachments/assets/1a2a56ea-b53f-4e5d-826b-9b0fb5d88d6b" />
+
 ## Talk is cheap, show me the code!!!
 
 There are many resources on how to do overlayfs on the web so let's add one more resource.
