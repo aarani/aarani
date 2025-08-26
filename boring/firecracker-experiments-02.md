@@ -19,7 +19,7 @@ I asked copilot:
 
 To run this "piece of code" I need to create an image, which we described how to create in the previous part.
 
-For this part, we have a new problem to tackle, as soon as I tried to run too many microVMs on my not-so-micro VM, I ran to space issues.
+For this part, we have a new problem to tackle, as soon as I tried to run too many microVMs on my not-so-micro VM, I ran into space issues.
 
 How can my not-so-cheap VM keep up...
 
