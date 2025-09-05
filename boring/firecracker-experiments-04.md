@@ -7,7 +7,8 @@ I promised some things in part 3 but I got de-railed and worked on other things 
 
 ## Let's be real
 
-That crappy init script I had doesn't take it anymore, it was too basic, it would even panic when dotnet dies, not ideal....
+- That crappy init script I had doesn't take it anymore, it was too basic, it would even panic when dotnet dies, not ideal....
+- Creating runtime images were a manual pain in the bottom, not ideal...
 
 ## Let's fix that 🧵
 
