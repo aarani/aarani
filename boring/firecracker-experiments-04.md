@@ -41,7 +41,7 @@ Turns out BusyBox's init doesn't do anything UNLESS you tell it to in the initta
 
 # We're back where we were in Part 3 🤣 but.....
 
-Theoritically, we can convert ANY docker container by injecting our init binaries (all static) into runtimes 🕺
+Theoritically, we can convert ANY docker container into runtimes by injecting our init binaries (all static) 🕺
 
 We also had some progress on other sides:
 - I'm implementing a SquashFS driver with .NET for no reason. don't ask me why. 🤦🏼‍♂️  Half-way into implementation, I found out I needed ext4 and not SquashFS!
