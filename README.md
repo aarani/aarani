@@ -9,3 +9,4 @@ I'm a .NET developer with a love for coffee, programming, and biotechnology.
 
 ## Some of my fun side-projects
 - [MangoFaaS](https://github.com/aarani/MangoFaaS)
+- [HPCC](https://github.com/aarani/hpcc)
