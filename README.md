@@ -59,7 +59,7 @@ Also: a **critical severity** vulnerability reported to GitLab via HackerOne. �
 
 ## 🛠️ Day job, abbreviated
 
-Danske Bank, Copenhagen — building for developers and traders inside a heavily regulated environment:
+Danske Bank, Copenhagen — building for developers and traders inside a heavily regulated environment
 
 ---
 
